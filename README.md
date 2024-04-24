@@ -6,8 +6,8 @@ Although TypeScript is a superset of JavaScript, object-oriented programming in 
 
 The primary principles of OOP include:
 
-1. Encapsulation
-2. Inheritance
+1. Inheritance
+2. Encapsulation
 3. Polymorphism
 4. Abstraction
 
