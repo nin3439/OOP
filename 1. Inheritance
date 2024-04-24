@@ -1,0 +1,3 @@
+# Inheritance
+
+**Inheritance** is a core concept in Object-Oriented Programming (OOP) that allows a class (subclass) to inherit properties and methods from another class (superclass). It forms an "is-a" relationship between classes, where the subclass is a specialized version of the superclass. Inheritance promotes code reuse, as it allows you to define common attributes and behaviors in a superclass and then extend or modify them in subclasses.
