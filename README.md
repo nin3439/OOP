@@ -1,6 +1,6 @@
 # OOP pricniples with examples in TS
 
-**Object-oriented programming** is a programming paradigm based on classes and objects rather than functions and logic. The software programs in object-oriented programming are structured into reusable pieces of code known as classes.
+**Object-oriented programming** is a programming paradigm based on **classes** and **objects** rather than functions and logic. The software programs in object-oriented programming are structured into reusable pieces of code known as classes.
 
 Although TypeScript is a superset of JavaScript, object-oriented programming in TypeScript differs from Object-oriented programming in JavaScript because, unlike JavaScript, TypeScript has full class support, has access modifiers, and type annotations like most object-oriented programming languages.
 
